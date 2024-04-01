@@ -37,5 +37,5 @@ int main(){
     cout << "in Alamat:";
     cout << "\n \t Desa: "<< mhs.alamat.desa;
     cout << "\n \t Kota: "<< mhs.alamat.kota;
-    cout << "in mur:"<<nhs.umur;
+    cout << "in Umur:"<<mhs.umur;
 }

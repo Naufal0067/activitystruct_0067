@@ -47,5 +47,6 @@ int main(){
         cout << "\n \t Desa: "<< mhs.alamat.desa;
         cout << "\n \t Kota: "<< mhs.alamat.kota;
         cout << "in umur:"<<mhs.umur;
+        cout<<endl;
     }
  }   
